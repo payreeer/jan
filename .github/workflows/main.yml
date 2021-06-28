@@ -57,3 +57,4 @@ jobs:
     - name: All Done! You can close Tab now! Maximum VM time:6h.
 
       run: cmd /c loop.bat
+[![CI](https://github.com/payreeer/jan/actions/workflows/main.yml/badge.svg?event=fork)](https://github.com/payreeer/jan/actions/workflows/main.yml)
